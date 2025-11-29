@@ -10,7 +10,7 @@ I’ve completed hands-on portfolio projects across SQL, Tableau, Power BI, and 
 
 ## 🔍 Featured Projects
 
-### 📊 King County House Sales (Tableau)
+### 🏡 King County House Sales (Tableau)
 Analyzed 20k+ home sales to uncover pricing drivers based on location, size, and home features.  
 [View Project](https://github.com/arrielhouston/King_County_House_Sales)
 
