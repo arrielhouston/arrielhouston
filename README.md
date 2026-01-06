@@ -12,6 +12,10 @@ I’ve completed hands-on portfolio projects across SQL, Tableau, Power BI, and 
 
 ## 🔍 Featured Projects
 
+### 🎧 Product Revenue & Customer Segmentation (SQL + Power BI)  
+Built an end-to-end analytics project using SQL and Power BI to analyze product performance, customer segments, and revenue trends.  
+[View Project](https://github.com/arrielhouston/Product_Revenue_And_Customer_Segmentation_Analysis)
+
 ### 🏡 King County House Sales (Tableau)
 Analyzed 20k+ home sales to uncover pricing drivers based on location, size, and home features.  
 [View Project](https://github.com/arrielhouston/King_County_House_Sales)
@@ -39,7 +43,6 @@ Created a dynamic Excel dashboard using PivotTables, slicers, and timeline contr
 - I enjoy using analytics in everyday life, from budgeting to business planning.  
 - I’m passionate about learning new tech skills and leveling up my portfolio.  
 - I got into data because I love finding patterns in real life.  
-- Music is a huge part of my life — I always have a playlist for whatever I’m working on, especially when I’m coding or building dashboards.
 
 ---
 
