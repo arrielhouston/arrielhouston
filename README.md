@@ -37,6 +37,11 @@ Created a dynamic Excel dashboard using PivotTables, slicers, and timeline contr
 - **Analytics:** KPI development, trend analysis, forecasting, business insights  
 - **Other:** Data cleaning, dashboard design, data storytelling  
 
+### 🔄 My Project Workflow
+All of my portfolio projects are full-stack analytics projects.  
+I start with raw, messy data, clean and prepare it for analysis, and then build visual dashboards that highlight trends, performance, and actionable insights.  
+This process allows me to work end-to-end across the full data lifecycle—from data cleaning, transformation, and analysis to reporting and visualization.
+
 ---
 
 ## 🎉 Fun Facts About Me
