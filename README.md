@@ -3,7 +3,7 @@ Data Analyst | SQL • Tableau • Power BI • Excel • Python
 
 ![CompTIA Data+](https://img.shields.io/badge/CompTIA-Data%2B-red?logo=comptia&logoColor=white)
 
-I’m a data analytics professional with a strong foundation in business analyics and data-driven decision making.  
+I’m a data analytics professional with a strong foundation in business and data-driven decision making.  
 I specialize in transforming raw datasets into clear insights, visualizations, and recommendations that support performance tracking, trend analysis, and strategic planning.
 
 I’ve completed hands-on portfolio projects across SQL, Tableau, Power BI, and Excel—focused on real-world scenarios like sales performance, profitability, market trends, and customer behavior.
