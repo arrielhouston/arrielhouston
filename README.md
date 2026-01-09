@@ -16,13 +16,13 @@ I’ve completed hands-on portfolio projects across SQL, Tableau, Power BI, and 
 Built an end-to-end analytics project using SQL and Power BI to analyze product performance, customer segments, and revenue trends.  
 [View Project](https://github.com/arrielhouston/Product_Revenue_And_Customer_Segmentation_Analysis)
 
-### 🏡 King County House Sales (Tableau)
-Analyzed 20k+ home sales to uncover pricing drivers based on location, size, and home features.  
-[View Project](https://github.com/arrielhouston/King_County_House_Sales)
-
 ### 📈 Power BI Performance Dashboard  
 Built an interactive dashboard tracking YTD performance, profitability, and key business KPIs.  
 [View Project](https://github.com/arrielhouston/powerbi-performance-report)
+
+### 🏡 King County House Sales (Tableau)
+Analyzed 20k+ home sales to uncover pricing drivers based on location, size, and home features.  
+[View Project](https://github.com/arrielhouston/King_County_House_Sales)
 
 ### ☕ Coffee Sales Dashboard (Excel)  
 Created a dynamic Excel dashboard using PivotTables, slicers, and timeline controls to analyze sales trends.  
